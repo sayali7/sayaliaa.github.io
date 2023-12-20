@@ -4,19 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a computer science Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I am advised by [Daifeng Wang](https://daifengwanglab.org/). My research interests broadly span interpretable machine learning for genomics, graph neural networks, attention models, and optimal transport. In particular, I work on building machine learning methods to understand biological mechanisms underlying diseases like Alzheimer's, and disease predictions from single-cell genomics.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.in/) in computer engineering. I later completed my master's in computer science at [Stony Brook University](https://www.stonybrook.edu/) where I was fortunate to be advised by [Samir Das](https://www3.cs.stonybrook.edu/~samir/).
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine.
+- **[July. 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
 
 {% include_relative _includes/publications.md %}
 
