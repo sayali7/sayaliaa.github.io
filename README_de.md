@@ -133,6 +133,7 @@ Unser Projekt verwendet den Quellcode aus den folgenden Repositorys:
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 * ![Screenshot from 2023-12-21 11-22-11](https://github.com/sayali7/sayali7.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7)
 ![Screenshot from 2023-12-21 11-48-19](https://github.com/sayali7/sayali7.github.io/assets/17776179/ae0bfed8-1f7a-49c6-8abc-86b59d811292)
+![2021-Officers-Sayali](https://github.com/sayali7/sayali7.github.io/assets/17776179/3e19fc6a-51e9-4f50-95c7-7c7348b65426)
 
 
 * [al-folio](https://github.com/alshedivat/al-folio)
