@@ -3,7 +3,7 @@ main:
   - title: "DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction"
     authors: Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang
     conference_short: Genome Medicine 
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023. 
     pdf: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01248-6
     code: https://github.com/daifengwanglab/DeepGAMI
     image: https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png
