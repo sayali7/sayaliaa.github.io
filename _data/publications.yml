@@ -11,7 +11,7 @@ main:
   - title: "CMOT: Cross-Modality Optimal Transport for multimodal inference"
     authors: <strong>Sayali Anil Alatkar</strong> & Daifeng Wang
     # conference_short: CVPR
-    conference: Genome Biology, 2020.
+    conference: Genome Biology, 2023.
     pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02989-8#:~:text=CMOT%20(Cross%2DModality%20Optimal%20Transport)%20is%20a%20computational%20approach,single%20modality%20datasets%20as%20inputs.
     code:  https://github.com/daifengwanglab/CMOT
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
