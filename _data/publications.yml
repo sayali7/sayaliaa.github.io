@@ -2,19 +2,19 @@ main:
 
   - title: "DeepGAMI: deep biologically guided auxiliary learning for multimodal integration and imputation to improve genotype–phenotype prediction"
     authors: Pramod Bharadwaj Chandrashekar, <b>Sayali Alatkar</b>, Jiebiao Wang, Gabriel E. Hoffman, Chenfeng He, Ting Jin, Saniya Khullar, Jaroslav Bendl, John F. Fullard, Panos Roussos & Daifeng Wang
-    conference_short: Genome Medicine 
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023. 
+    #conference_short: Genome Medicine 
+    conference: Genome Medicine, 2023. 
     pdf: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01248-6
     code: https://github.com/daifengwanglab/DeepGAMI
     image: https://user-images.githubusercontent.com/57010174/169340516-1d3c46bb-9a4a-4d6a-a710-eeb168e8bb22.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/ 
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "CMOT: Cross-Modality Optimal Transport for multimodal inference"
+    authors: <strong>Sayali Anil Alatkar</strong> & Daifeng Wang
+    # conference_short: CVPR
+    conference: Genome Biology, 2020.
+    pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02989-8#:~:text=CMOT%20(Cross%2DModality%20Optimal%20Transport)%20is%20a%20computational%20approach,single%20modality%20datasets%20as%20inputs.
+    code:  https://github.com/daifengwanglab/CMOT
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/ 
+    # notes: Oral Presentation
+    image: https://github.com/sayali7/CMOT/blob/main/src/Figure1.png
