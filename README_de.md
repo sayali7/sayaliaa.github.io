@@ -131,5 +131,7 @@ Unser Projekt verwendet den Quellcode aus den folgenden Repositorys:
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
+* ![Screenshot from 2023-12-21 11-22-11](https://github.com/sayali7/sayali7.github.io/assets/17776179/312bf491-3b2e-4beb-a882-24756579cba7)
+
 
 * [al-folio](https://github.com/alshedivat/al-folio)
