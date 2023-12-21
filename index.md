@@ -10,6 +10,7 @@ Previously, I completed my undergrad at [Pune University](http://www.unipune.ac.
 
 ## News
 
+- **[November. 2023]** I gave a talk on our paper CMOT at RSGDREAM 2023.
 - **[October. 2023]** Our paper on deep auxiliary learning for multi-modal integration and imputation was accepted at Genome Medicine.
 - **[July. 2023]** Our paper about cross-modality imputation using optimal transport was accepted at Genome Biology.
 
